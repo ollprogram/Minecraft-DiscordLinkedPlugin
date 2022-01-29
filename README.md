@@ -6,7 +6,7 @@ This plugin was made for fun by me (ollprogram). I made it to play with my frien
 # Download :
 You can download it here on Github and on spigotmc.org. 
 # Dependencies for developpers :
-Dependencies for this project are in the pom.xml. I'm using two different APIs:
+Dependencies for this project are in the pom.xml if you want to use Maven. I'm using two different APIs:
 <ul>
   <li> JDA (<a href = "https://github.com/DV8FromTheWorld/JDA">Java Discord API</a>)</li>
   <li> Spigot (<a href = "https://www.spigotmc.org">An API for Minecraft servers</a>)</li>
