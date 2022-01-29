@@ -8,14 +8,20 @@ Find information about the licence used for this project <a href="https://github
 # Download :
 You can download it here on Github and on spigotmc.org. 
 # Setup :
+<p>First of all you will need to create a discord bot with <a href="https://discord.com/developers/docs/intro">The Discord Developper Portal</a> and add it into your server with at least those permissions : </p>
+<img src="https://user-images.githubusercontent.com/39884051/151679694-15a874c3-b2ec-445e-a134-31a7253ec5f5.png"></a>
+When this is done, follow these steps :
 <ol>
   <li>Download the plugin</li>
   <li>Put the plugin jar file into your plugin directory in your Spigot server.</li>
   <li>Run your server</li>
   <li>You will have a warning because the plugin isn't yet configurated. Then stop you server.</li>
   <li><p>Open the config.yml file of this plugin (available in your plugin directory) with an editor. There are 4 variables : <br>
-    <img href="https://github.com/ollprogram/Minecraft-DiscordLinkedPlugin/blob/main/config.yml_example.png"></img>
+    <img src="https://github.com/ollprogram/Minecraft-DiscordLinkedPlugin/blob/main/config.yml_example.png"></img>
+    You will need add at least your discord bot Token.
 </p></li>
+  <li> Now you should be good. Restart your server, and if there are no warnings/errors the plugin should be installed correctly.</li>
+</ol>
   
 # Usage :
 
