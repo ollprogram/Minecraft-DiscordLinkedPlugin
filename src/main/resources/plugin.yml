@@ -1,0 +1,12 @@
+name: DiscordLinkedPlugin
+main: fr.ollprogram.discordlinkedplugin.Main
+version: 1.0.0
+author: ollprogram
+api-version: 1.18
+website: https://github.com/ollprogram
+prefix: discord
+description: A minecraft plugin linked to a Discord bot.
+commands:
+  saveLocation:
+    usage: saveLocation <name> <description>
+    description: Allows to send on discord a the current player location with a name and a description.
