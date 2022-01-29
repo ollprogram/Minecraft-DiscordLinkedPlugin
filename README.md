@@ -14,7 +14,7 @@ You can download it here on Github and on spigotmc.org.
   <li>Run your server</li>
   <li>You will have a warning because the plugin isn't yet configurated. Then stop you server.</li>
   <li><p>Open the config.yml file of this plugin (available in your plugin directory) with an editor. There are 4 variables : <br>
-    <img href="https://user-images.githubusercontent.com/39884051/151679361-698fe461-0c5e-4802-a2b3-1fabe2b939e5.png"></img>
+    ![image](https://user-images.githubusercontent.com/39884051/151679399-134aaaee-e9cb-41ca-83be-8724cd86b258.png)
 </p></li>
   
 # Usage :
