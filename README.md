@@ -6,9 +6,9 @@ Hi I'm ollprogram and I am the author of this project. Thanks for using it.
 Please don't be afraid to report bugs or mistakes to me. I'll try to fix them. By the way, english isn't my main language, so I'm sorry for english mistakes but I'm open if you find some.
 Find information about the licence used for this project <a href="https://github.com/ollprogram/Minecraft-DiscordLinkedPlugin/blob/main/LICENSE">here</a>. You need to know the licence before using my project. It gives information about how you can use it.
 # Description :
-This is a simple minecraft plugin using a Discord bot. It could be used such as an example, or to play with friends. When the minecraft server will start, you will be able to see it on discord using this plugin. You will also be able to send in-game locations to Discord.
+This is a simple minecraft plugin using a Discord bot. It can be used as an example of a minecraft plugin linked with Discord, or to play with friends. This plugin shows the minecraft server status on Discord. You will also be able to send in-game locations to Discord.
 # Download :
-You can download it here on Github and on spigotmc.org soon. 
+You can download it here on Github or on spigotmc.org soon. 
 # Setup :
 <p>First of all you will need to create a discord bot with <a href="https://discord.com/developers/docs/intro">The Discord Developper Portal</a> and add it into your server with at least those permissions : </p>
 <img src="https://user-images.githubusercontent.com/39884051/151679694-15a874c3-b2ec-445e-a134-31a7253ec5f5.png"></a>
@@ -17,10 +17,10 @@ When this is done, follow these steps :
   <li>Download the plugin</li>
   <li>Put the plugin jar file into your plugin directory in your Spigot server.</li>
   <li>Run your server</li>
-  <li>You will have a warning because the plugin isn't yet configurated. Then stop you server.</li>
+  <li>You will have a warning because the plugin isn't yet configurated. Then stop your server.</li>
   <li><p>Open the config.yml file of this plugin (available in your plugin directory) with an editor. There are 4 variables : <br>
     <img src="https://github.com/ollprogram/Minecraft-DiscordLinkedPlugin/blob/main/config.yml_example.png"></img>
-    You will need add at least your discord bot Token.
+    <br>You will need add to at least your discord bot Token.
 </p></li>
   <li> Now you should be good. Restart your server, and if there are no warnings/errors the plugin should be installed correctly.</li>
 </ol>
