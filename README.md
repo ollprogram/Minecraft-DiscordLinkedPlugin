@@ -8,7 +8,7 @@ Find information about the licence used for this project <a href="https://github
 # Description :
 This is a simple minecraft plugin using a Discord bot. It can be used as an example of a minecraft plugin linked with Discord, or to play with friends. This plugin shows the minecraft server status on Discord. You will also be able to send in-game locations to Discord.
 # Download :
-You can download it here on Github or on spigotmc.org soon. 
+You can download it <a href="https://github.com/ollprogram/Minecraft-DiscordLinkedPlugin/releases/download/v1.0.0/DiscordLinkedPlugin-1.0.0.jar">here</a> on Github or on spigotmc.org soon. 
 # Setup :
 <p>First of all you will need to create a discord bot with <a href="https://discord.com/developers/docs/intro">The Discord Developper Portal</a> and add it into your server with at least those permissions : </p>
 <img src="https://user-images.githubusercontent.com/39884051/151679694-15a874c3-b2ec-445e-a134-31a7253ec5f5.png"></a>
