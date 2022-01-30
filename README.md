@@ -1,5 +1,5 @@
 # Minecraft-DiscordLinkedPlugin
-A simple minecraft plugin running on Spigot using a Discord bot to play with your friends.
+A simple minecraft plugin running on Spigot 1.18.1 using a Discord bot to play with your friends.
 
 # Author and licence :
 Hi I'm ollprogram and I am the author of this project. Thanks for using it.
