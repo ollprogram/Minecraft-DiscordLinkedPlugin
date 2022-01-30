@@ -26,7 +26,7 @@ When this is done, follow these steps :
 </ol>
   
 # Fonctions and usage:
-<p>When the plugins is enabled (when the server starts), the discord bot will rename his log channel like this :</p>
+<p>When the plugin is enabled (when the server starts), the Discord bot will rename his log channel like this :</p>
 <img src="https://user-images.githubusercontent.com/39884051/151680042-a189c0f7-4cf1-45a8-b933-0a79dedaffd7.png"><img>
 Or when disabled (server shutdown) :</p>
 <img src="https://user-images.githubusercontent.com/39884051/151679925-9930996c-fdda-48b9-8b92-6a3048215227.png"><img>
